@@ -11,7 +11,7 @@ import Extension from "./pages/Extension";
 import NotFound from "./pages/NotFound";
 import { Link, Route, Switch, useLocation } from "wouter";
 import { ArrowRight, Download, Eye, Globe2, Radar, ShieldCheck } from "lucide-react";
-
+// Keep navigation and branding in one shared shell across every route.
 function SiteHeader() {
   const { language, setLanguage, isHindi } = useLanguage();
   const [location] = useLocation();
