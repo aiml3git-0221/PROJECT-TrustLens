@@ -263,12 +263,6 @@ Contributions are welcome.
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 ## 📬 Contact
 
 For collaboration, responsible disclosure, or project discussions, please open an issue in this repository.
